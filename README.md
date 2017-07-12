@@ -20,3 +20,5 @@ LTSM Time series  <br />
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
 
 
+LTSM (Time Series) + Adaboost <br />
+http://www.sciencedirect.com/science/article/pii/S1566253506000820
