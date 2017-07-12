@@ -1,22 +1,22 @@
 # LSTM_readup
 
-Neural Network
+Neural Network <br />
 http://neuralnetworksanddeeplearning.com/index.html
 
-RNN
+RNN  <br />
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 
 
-Detailed discussion
+Detailed discussion  <br />
 https://arxiv.org/pdf/1503.04069.pdf
 
-[Original Paper 2005] 
+[Original Paper 2005]  <br />
 https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf
 
-Backpropagation \n
+Backpropagation  <br />
 https://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/
 
-LTSM Time series
+LTSM Time series  <br />
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
 
 
