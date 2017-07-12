@@ -24,3 +24,5 @@ LTSM (Time Series) + Adaboost <br />
 http://www.sciencedirect.com/science/article/pii/S1566253506000820 </br>
 https://link.springer.com/content/pdf/10.1007%2F11893257_92.pdf
 
+Sidelines: </br>
+https://arxiv.org/pdf/1412.6544.pdf
