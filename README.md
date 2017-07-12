@@ -1,4 +1,4 @@
-# LSTM_readup
+# LSTM Readup
 
 Neural Network <br />
 http://neuralnetworksanddeeplearning.com/index.html
