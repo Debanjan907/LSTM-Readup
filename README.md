@@ -13,6 +13,9 @@ https://arxiv.org/pdf/1503.04069.pdf
 [Original Paper 2005] 
 https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf
 
+Backpropagation \n
+https://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/
+
 LTSM Time series
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
 
