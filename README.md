@@ -4,8 +4,8 @@ Neural Network <br />
 http://neuralnetworksanddeeplearning.com/index.html
 
 RNN  <br />
-http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
-
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ <br/>
+https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html<br/>
 
 Detailed discussion  <br />
 https://arxiv.org/pdf/1503.04069.pdf
