@@ -28,6 +28,5 @@ Sidelines: </br>
 https://arxiv.org/pdf/1412.6544.pdf
 
 Time Series  
-
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45401.pdf  
 ftp://ftp.idsia.ch/pub/juergen/icann2001predict.pdf
