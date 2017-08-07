@@ -30,3 +30,11 @@ https://arxiv.org/pdf/1412.6544.pdf
 Time Series  
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45401.pdf  
 ftp://ftp.idsia.ch/pub/juergen/icann2001predict.pdf
+
+
+LSTM Time series Microsoft:
+https://gallery.cortanaintelligence.com/Tutorial/Forecasting-Short-Time-Series-with-LSTM-Neural-Networks-2
+
+
+Low importance
+http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf
