@@ -17,3 +17,4 @@ Time Seiries Stationarity:
 http://machinelearningmastery.com/time-series-data-stationary-python/
 https://www.otexts.org/fpp/8/1
 
+http://vict0rsch.github.io/tutorials/keras/recurrent/
