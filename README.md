@@ -38,3 +38,10 @@ https://gallery.cortanaintelligence.com/Tutorial/Forecasting-Short-Time-Series-w
 
 Low importance
 http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf
+
+
+
+http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/#how-does-t-become-ծ
+
+NVIDIA:
+https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/
